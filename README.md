@@ -32,7 +32,7 @@ And then in your `build.yaml` file:
 
 ```yaml
 # build.yaml
-board: ["xiao_ble"]
+board: ["xiao_ble//zmk"]
 shield: ["re-gret"]
 ```
 
